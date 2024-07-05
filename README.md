@@ -2,7 +2,7 @@
 
 Nitehawk-36 is a toolboard featuring RP2040 MCU, TMC2209 stepper drive, ADXL345 accelerometer, and USB port. Nitehawk-36's USB based connection method allows for a simple and easy setup compared to other CAN toolboards. The USB connnection also allows for a secondary USB port to connect your nozzle webcam or eddy current probe.
 
-<img src="file:///C:/Users/yang.zp/Desktop/Github/Nitehawk-36/Images/Nitehawk-36-1.jpg" title="" alt="Nitehawk-36-1.jpg" width="394">
+<img title="" src="./Images/Nitehawk-36-1.jpg" alt="Nitehawk-36-1.jpg" width="394" data-align="inline">
 
 # Features:
 
