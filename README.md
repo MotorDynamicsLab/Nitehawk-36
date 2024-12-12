@@ -12,3 +12,6 @@ Nitehawk-36 is a toolboard featuring RP2040 MCU, TMC2209 stepper drive, ADXL345 
 - Custom toolhead cable, a single combined USB data and power cable rated for drag chain use, but can also be used in umbilical configuration.
 - Convenient Input Shaping, run input shaper calibration at anytime with an onboard accelerometer.
 - Tacho enabled HEF, the hotend fan port is three pin tachometer compatible, allowing for additional diagnostics and safety.
+
+# Mount Guide
+[Nitehawk 36 Universal Mount Guide](../blob/master/Hardware/NiteHawk%2036%20Mount.pdf)
