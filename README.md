@@ -14,4 +14,4 @@ Nitehawk-36 is a toolboard featuring RP2040 MCU, TMC2209 stepper drive, ADXL345 
 - Tacho enabled HEF, the hotend fan port is three pin tachometer compatible, allowing for additional diagnostics and safety.
 
 # Mount Guide
-[Nitehawk 36 Universal Mount Guide](../master/Hardware/NiteHawk%2036%20Mount.pdf)
+[Nitehawk 36 Universal Mount Guide](../master/STLs/Universal_Mount/NiteHawk%2036%20Mount.pdf)
